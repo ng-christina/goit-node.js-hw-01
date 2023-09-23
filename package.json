@@ -1,0 +1,26 @@
+{
+  "name": "node.js-hw-1",
+  "version": "1.0.0",
+  "description": "hw - nodejs - 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "start:dev": "nodemon index"
+  },
+  "keywords": [],
+  "author": "Nahailo Khrystyna",
+  "license": "ISC",
+  "dependencies": {
+    "nanoid": "^3.3.6",
+    "nodemon": "^3.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ng-christina/goit-node.js-hw-01.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ng-christina/goit-node.js-hw-01/issues"
+  },
+  "homepage": "https://github.com/ng-christina/goit-node.js-hw-01#readme"
+}
